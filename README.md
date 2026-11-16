@@ -20,10 +20,10 @@ SoundWay es una aplicación diseñada específicamente para talleres de instalac
 
 Este proyecto fue construido utilizando las siguientes herramientas:
 
-* **Frontend:** `[Ej. React / Flutter / Vue / HTML & CSS]`
-* **Backend:** `[Ej. Node.js / Python / Firebase / Supabase]`
-* **Base de Datos:** `[Ej. PostgreSQL / MongoDB / MySQL]`
-* **Otras herramientas:** `[Ej. Tailwind CSS, Git, Docker]`
+* **Frontend:** React
+* **Backend:** Node.js
+* **Base de Datos:** PostgreSQL
+* **Otras herramientas:** Git
 
 ---
 
